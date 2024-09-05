@@ -1,17 +1,20 @@
 # Computer_Architecture
-Computer Architecture Projects
-This repository contains a collection of projects related to computer architecture, focusing on how computer hardware executes software.
-Overview
-These projects explore various aspects of computer architecture, including:
 
+This repository contains a collection of projects related to computer architecture, focusing on how computer hardware executes software.
+
+**Overview**
+These projects explore various aspects of computer architecture, including:
+<ol>
+  <li>First item</li>
 Instruction sets
 Assembly language programming
 Basic digital logic design
 Processor design
 Memory system design
 Input/output
+</ol>
 
-Projects
+**Projects**
 1. Cache Simulator (cachesim.java)
 A Java program that simulates cache behavior based on various parameters such as cache size, associativity, and block size.
 2. Plus/Minus Calculator (plusminus.c)

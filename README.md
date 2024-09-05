@@ -27,6 +27,6 @@ These projects explore various aspects of computer architecture, including:
 4. **Tribonacci Sequence (`tribonacci.c`) & (`tribonacci.s`)**  
    A C program and an assembly version that generates and prints the Tribonacci sequence up to a specified number of terms.
 
-5. **Cache Simulator (`cpu.circ`)** 
+5. **Cache Simulator (`cpu.circ`)**
    A logisim simulation of a 16-bit, single-cycle MIPS-like processor, with specific focus on creating a functioning RISC architecture that executes a provided instruction set and adheres to defined memory and clocking requirements.
    
